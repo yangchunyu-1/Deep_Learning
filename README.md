@@ -1,4 +1,3 @@
-# Deep_Learning_Primer
-Theory and implementation based on Python about Deep Learning.
+# Deep_Learning
 
 Throughout my machine learning journey, I have always focused on theoretical learning while neglecting hands-on coding practice. Therefore, I will be using a popular deep learning textbook available on the market to carry out practical learning through Python coding. I will continuously update my code for future review purposes. You can also tell from the title and description what this code file is used for and which knowledge points it covers. I hope this can be of at least a little help to you. In the future, I may also update code implementations for other tutorials by the same author.
